@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-## :octocat: I am Ram Rohit Gannavarapu
+## I am Ram Rohit Gannavarapu
 - 🌱 I’m currently pursuing my Master's in Computer Engineering at Colorado State University
 - 🔭 I’m currently working on creating Alexa Skills for custom hardware using ESP32 and ESP-EYE
+- 👯 I’m looking for full time oppurtunities in Embedded/Firmware Engineering starting May 2021
 
 
 
