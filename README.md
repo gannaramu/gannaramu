@@ -3,8 +3,10 @@
 ## :octocat: I am Ram Rohit Gannavarapu
 - 🌱 I’m currently pursuing my Master's in Computer Engineering at Colorado State University
 - 🔭 I’m currently working on creating Alexa Skills for custom hardware using ESP32 and ESP-EYE
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gannaramu&layout=compact&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
 ![Ram Rohit's github stats](https://github-readme-stats.vercel.app/api/?username=gannaramu&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff) 
 
