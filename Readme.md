@@ -9,6 +9,7 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=gannaramu&color=blue&label=Profile+Views)
 
+<img src="https://github.com/gannaramu/gannaramu/blob/master/Animation4.gif" width="700">
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gannaramu&theme=synthwave)](https://git.io/streak-stats  ) -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=gannaramu&theme=jolly" width="700">
