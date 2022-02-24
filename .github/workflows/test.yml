@@ -29,5 +29,5 @@ jobs:
         with:
           images: name/gannaramu
           tags: |
-              type=semver,pattern={{version}}
+              type=semver,pattern={{raw}}
               type=semver,pattern={{major}}.{{minor}}
