@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-## I am Ram Rohit Gannavarapu
+<!-- ## I am Ram Rohit Gannavarapu
 - 🌱 I’m pursuing my Master's in Computer Engineering at Colorado State University
 - ⚡ I previously worked as an Intern at Tesla  -  Low Voltage Control Design and Test team 
-- 🔭 I’m working on creating Alexa Skills for custom hardware using ESP32 and ESP-EYE
+- 🔭 I’m working on creating Alexa Skills for custom hardware using ESP32 and ESP-EYE -->
 <!-- 👯 I’m looking for full time oppurtunities in Embedded/Firmware Engineering starting Dec 2021 -->
 
 
